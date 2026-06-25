@@ -15,7 +15,7 @@ Quando selecionar a cor "Azul", o selecionar o tamanho "M", e informar a quantid
 Então o produto deve estar apto para ser adicionado ao carrinho
 
 Cenário: Não permitir configuração sem campos obrigatórios
-Quando não selecionar a cor, e o tamanho, ouu não informar a quantidade
+Quando não selecionar a cor, e o tamanho, ou não informar a quantidade
 Então o sistema deve exibir uma mensagem informando que os campos são obrigatórios
 
 Cenário: Limite máximo de produtos por venda
